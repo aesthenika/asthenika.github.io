@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/asthenika.github.io/static/css/main.423db145.css",
+    "main.js": "/asthenika.github.io/static/js/main.31d60c5e.js",
+    "static/js/787.f055211e.chunk.js": "/asthenika.github.io/static/js/787.f055211e.chunk.js",
+    "static/media/snow.png": "/asthenika.github.io/static/media/snow.d71d3f1d6304e8d0e699.png",
+    "index.html": "/asthenika.github.io/index.html",
+    "main.423db145.css.map": "/asthenika.github.io/static/css/main.423db145.css.map",
+    "main.31d60c5e.js.map": "/asthenika.github.io/static/js/main.31d60c5e.js.map",
+    "787.f055211e.chunk.js.map": "/asthenika.github.io/static/js/787.f055211e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.423db145.css",
+    "static/js/main.31d60c5e.js"
+  ]
+}
